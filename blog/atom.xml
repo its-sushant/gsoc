@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fossology.github.io/gsoc/blog</id>
+    <title>GSoC projects at FOSSology Blog</title>
+    <updated>2021-06-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fossology.github.io/gsoc/blog"/>
+    <subtitle>GSoC projects at FOSSology Blog</subtitle>
+    <icon>https://fossology.github.io/gsoc/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New build system - Week 3]]></title>
+        <id>/cmake-cweek3</id>
+        <link href="https://fossology.github.io/gsoc/blog/cmake-cweek3"/>
+        <updated>2021-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<!--]]></summary>
+        <author>
+            <name>Avinal</name>
+            <uri>https://github.com/avinal/</uri>
+        </author>
+    </entry>
+</feed>
